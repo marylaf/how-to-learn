@@ -1,0 +1,6 @@
+.footer__column {
+  color: white;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+}
