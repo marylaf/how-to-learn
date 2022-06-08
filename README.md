@@ -13,7 +13,7 @@
 1. flexbox:
 
 ```css
-.cards\_\_item {
+.cards__item {
   margin-right: 100px;
   margin-top: 60px;
   display: flex;
